@@ -1,0 +1,119 @@
+Universidade Federal de Campina Grande – UFCG
+Centro de Engenharia Elétrica e Informática – CEEI
+Departamento de Engenharia Elétrica – DEE
+Curso de Graduação em Engenharia Elétrica
+
+
+
+
+
+
+
+MEMORIAL TÉCNICO DESCRITIVO
+Projeto Elétrico do Edifício Pôr do Sol
+
+
+
+
+
+
+
+
+
+Campina Grande – PB
+Julho de 2018
+
+1.	Dados Gerais
+Solicitante:	Célio Anésio
+CNPJ:	0293 93913 19831
+Nome:	Condomínio Pôr do Sol
+Fantasia:	
+Endereço da obra:	Rua das Mangueiras, Nº 183, Bairro São Luís, Encanto – RN.
+Contato:	(83) 98216-6682
+UC atual:	Ligação nova
+Finalidade: 	Realização de projeto de uma unidade predial.
+
+
+Responsáveis Técnicos:
+
+_______________________________________________
+Frederico Carvalho de Amaral
+Matrícula:
+
+_______________________________________________
+João Pedro da Costa Souza
+Matrícula: 114110545
+
+_______________________________________________
+Kaio Nikelisson de Lima Fernandes
+Matrícula:
+
+_______________________________________________
+Victor Hugo dos Santos Germano
+Matrícula:
+
+
+2.	Previsão de Ligação
+Em 60 (sessenta) dias, tempo necessário para conclusão da obra em andamento.
+3.	Condições Gerais
+O projeto das instalações elétricas foi elaborado de acordo com especificações da ABNT. O escopo do projeto abrangeu as seguintes instalações:
+•	Projeto luminotécnico;
+•	Plantas elétricas dos pavimentos Térreo e Tipo;
+•	Prumada elétrica;
+•	Sistema de entrada de energia;
+•	Sistema de medição de energia;
+•	Quadro de distribuição;
+•	Sistema de aterramento;
+•	Sistema básico de comunicação;
+4.	Entrada de Energia Elétrica
+Em 60 (sessenta) dias, tempo necessário para conclusão da obra em andamento.
+5.	Sistema de Medição de Energia
+Em 60 (sessenta) dias, tempo necessário para conclusão da obra em andamento.
+6.	Quadro de Distribuição
+Em 60 (sessenta) dias, tempo necessário para conclusão da obra em andamento.
+7.	Sistemas de Iluminação e Tomadas
+Os sistemas de iluminação e tomadas foram organizados de modo a separar as áreas públicas e apartamentos.
+7.1.	Apartamentos
+O sistema de Tomadas de Uso Geral (TUG’s) foi dividido em dois circuitos, 1 e 2, relativos respectivamente ao ambiente da cozinha/copa e o restante da área habitável. Foram previstas tomadas do tipo universal 2P + T (10/250 V).
+O sistema de Iluminação, por sua vez, também foi dividido em dois circuitos, 3 e 4, associados aos dois lados do apartamento (sala/cozinha/copa e quartos/hall/banheiro).
+A divisão proporciona, de modo geral:
+?	A limitação das consequências advindas de possíveis faltas, que seccionarão apenas o circuito defeituoso;
+?	Facilidade no que tange a verificações e manutenção;
+?	Evitar perigos que possam advir de falhas em determinado circuito, como a iluminação;
+•	Melhor distribuição de potência, facilitando o dimensionamento de cabos e disjuntores de forma adequada;
+•	Organização do projeto elétrico.
+7.2.	Áreas Públicas
+As áreas públicas possuem iluminação ativada por sensores. Além de não possuírem tomadas por razões que desconheço.
+8.	Cálculo de Demanda de Apartamento
+Jogar quadro de carga aqui.
+9.	Disjuntores e disjuntores residuais
+Os disjuntores utilizados serão do tipo termomagnético (disparo para sobrecarga e curto-circuito), com curva característica do tipo “C”. Será melhor só comentar na lista?
+Os disjuntores diferenciais residuais (DDR) serão instalados a fim de evitar a ocorrência de choques elétricos prejudiciais à saúde humana. Serão usados DDRs com sensibilidade de 30 mA.
+10.	 Disjuntores e disjuntores residuais
+Em 60 (sessenta) dias, tempo necessário para conclusão da obra em andamento.
+11.	 Sistema de Aterramento
+Em 60 (sessenta) dias, tempo necessário para conclusão da obra em andamento.
+12.	Sistema de Distribuição
+Em 60 (sessenta) dias, tempo necessário para conclusão da obra em andamento.
+13.	Projeto Luminotécnico
+O projeto luminotécnico foi realizado mediante utilização do software Dialux, para os apartamentos, corredores e área externa (estacionamento).
+
+14.	Lista de Materiais e Equipamentos a serem instalados
+Em anexo.
+15.	Métodos Executivos
+Todas as instalações deverão ser executadas de acordo com os projetos elaborados e com aplicação de mão-de-obra de alto padrão técnico caracterizando-se o sistema de boa apresentação e eficiência Somente deverão ser instalados materiais e equipamentos que satisfaçam aos padrões de fabricação e aos métodos de ensaio exigidos pela ABNT. A execução dos serviços deverá atender a legislação quanto à proteção do trabalho em instalações elétricas. Os circuitos deverão ser protegidos por disjuntores automáticos de proteção térmica e de sobrecarga. Toda a tubulação, quadros metálicos, aparelhos, máquinas e demais equipamentos deverão ser interligados de forma efetiva e contínua a terra. Os condutores deverão ser instalados de forma a suportarem apenas esforços compatíveis as suas resistências mecânicas; As emendas serão executadas em caixas de passagem com perfeito contato. A isolação das emendas deverá ser feita com fita isolante de boa qualidade; O corte dos eletrodutos deverá ser executado perpendicularmente ao eixo longitudinal, sendo as novas extremidades dotadas de rosca, a seção objeto de corte deverá ser cuidadosamente limpa, de forma a serem eliminadas rebarbas que possam danificar os condutores; A tubulação aparente será fixada com braçadeiras especiais, formando sempre linhas com orientação vertical ou horizontal; Durante a execução da obra, as extremidades dos eletrodutos deverão ser vedadas, para evitar obstruções
+
+Anexos
+Em 60 (sessenta) dias, tempo necessário para conclusão da obra em andamento.
+16.	Considerações Finais
+Em 60 (sessenta) dias, tempo necessário para conclusão da obra em andamento.
+
+ATENÇÃO: Falar sobre, no memorial:
+Disjuntores
+Interruptores Residuais
+Caixas de passagem (?)
+Eletrodutos
+Quadros de distribuição
+Fios e cabos: interessante
+Sistema de Aterramento: must have
+
